@@ -101,4 +101,4 @@ Download your Colab notebooks to your computer.
 Move them into your Deep Learning Challenge directory in your local repository.
 
 Push the added files to GitHub.
-##### Code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
+#### Code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
