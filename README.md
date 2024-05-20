@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Deep Learning Challenge
 
 Deep learning and neural networks were used to predict success for applicants seeking funding by fictional nonprofit Alphabet Soup. The model was created and optimized according to the following specifications:
 
@@ -101,4 +101,4 @@ Download your Colab notebooks to your computer.
 Move them into your Deep Learning Challenge directory in your local repository.
 
 Push the added files to GitHub.
-Code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
+##### Code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
